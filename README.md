@@ -1,7 +1,7 @@
 # SnakeGame
 A Nostalgic Snake Game from Nokia 3310, Recreated using Python
 
-Technologies Used: Python, Turtle Module, Object Oriented Programming
+Technologies Used: Python, Turtle Module, Object Oriented Programming, Time Module, Reading and Writing into a file. 
 Features: 
 1. The Snake moves at a constant speed, grows as you consume the food.
 2. The scoreboard updates as and when you consume the food.
